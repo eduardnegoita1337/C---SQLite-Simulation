@@ -1,0 +1,10 @@
+CREATE TABLE angajati ((sex,char,6,nosex),(salariul,int,6,1000))
+DISPLAY TABLE angajati
+CREATE TABLE furnizori ((tipMarfa, char,5, nothing))
+DISPLAY TABLE furnizori
+INSERT INTO angajati VALUES ((masculin,3500))
+INSERT INTO furnizori VALUES ((pietre))
+CREATE TABLE angajati ((random,random,random,random))
+INSERT INTO departamente VALUES ((aea,dea))
+DROP TABLE departamente
+DROP TABLE furnizori
